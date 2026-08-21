@@ -1,5 +1,6 @@
 ## Hey there Traveller
 My name is Remy!\
+
 I build simple games, websites, and fun little projects\
 Currently working on: game dev\
 Currently learning: hardware/PCB design (KiCad)\
