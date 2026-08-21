@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hey there Traveller
+
+My name is remy! I like to make simple games, websites and fun stuff. 
 
 <!--
 **squeakycleanfreshie-cloud/squeakycleanfreshie-cloud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
