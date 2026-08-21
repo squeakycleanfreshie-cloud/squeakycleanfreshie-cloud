@@ -1,5 +1,5 @@
 ## Hey there Traveller
-My name is Remy!\
+My name is Remy!
 
 I build simple games, websites, and fun little projects\
 Currently working on: game dev\
