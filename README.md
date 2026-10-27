@@ -1,5 +1,5 @@
 ## hey there traveller
-My name is Remy!
+My name is Remy!\
 www.remy.quest
 ### Stuff I do
 I build simple games, websites, and fun little projects\
