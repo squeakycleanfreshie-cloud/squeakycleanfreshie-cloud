@@ -3,7 +3,7 @@ My name is Remy!
 www.remy.quest
 I build simple games, websites, and fun little projects\
 i am currently learning game dev\
-i want to learn more hardware\
+i want to learn more hardware
 
 
 
